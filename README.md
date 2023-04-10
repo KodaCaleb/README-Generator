@@ -16,7 +16,7 @@ Fill out the prompts that appear in the terminal then a markdown file will be ge
 ## Contribution
 If your pull requests are approved you will be a contributor
 ## Testing
-using node.js to test.
+using node.js to test. Video of project testing: [https://drive.google.com/file/d/1o5UMyU0fF130D32kyUqUF4fpYDs_RsA2/view](https://drive.google.com/file/d/1o5UMyU0fF130D32kyUqUF4fpYDs_RsA2/view).
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This project is licensed under the MIT license. For more information, please visit [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
